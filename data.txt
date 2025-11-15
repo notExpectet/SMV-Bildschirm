@@ -39,7 +39,7 @@
   ],
   "themes": {
     "theme1": {
-      "title": "Tag der Wissenschaft",
+      "title": "test12",
       "description": "Entdecke spannende Experimente und wissenschaftliche Vorträge aus den Bereichen Physik, Chemie und Biologie. Für alle Jahrgangsstufen.",
       "date": "28. November 2024",
       "imageUrl": "https://images.unsplash.com/photo-1694351075627-ed3aeacdc417?w=1080"
