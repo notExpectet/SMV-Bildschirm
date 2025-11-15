@@ -1,1 +1,55 @@
-
+```json
+{
+  "events": [
+    {
+      "id": 1,
+      "date": "16. Nov",
+      "time": "08:00",
+      "title": "Mathetest Klasse 10B",
+      "color": "#2b7fff"
+    },
+    {
+      "id": 2,
+      "date": "18. Nov",
+      "time": "10:30",
+      "title": "Elternabend Jahrgangsstufe 9",
+      "color": "#ad46ff"
+    },
+    {
+      "id": 3,
+      "date": "20. Nov",
+      "time": "14:00",
+      "title": "Sportfest",
+      "color": "#00c950"
+    },
+    {
+      "id": 4,
+      "date": "22. Nov",
+      "time": "09:00",
+      "title": "Studienberatung",
+      "color": "#ff6900"
+    },
+    {
+      "id": 5,
+      "date": "25. Nov",
+      "time": "11:00",
+      "title": "Theateraufführung",
+      "color": "#f6339a"
+    }
+  ],
+  "themes": {
+    "theme1": {
+      "title": "Tag der Wissenschaft",
+      "description": "Entdecke spannende Experimente und wissenschaftliche Vorträge aus den Bereichen Physik, Chemie und Biologie. Für alle Jahrgangsstufen.",
+      "date": "28. November 2024",
+      "imageUrl": "https://images.unsplash.com/photo-1694351075627-ed3aeacdc417?w=1080"
+    },
+    "theme2": {
+      "title": "Theateraufführung \"Der Besuch der alten Dame\"",
+      "description": "Die Theater-AG präsentiert das Drama von Friedrich Dürrenmatt. Einlass ab 18:30 Uhr, Eintritt frei. Reservierungen im Sekretariat.",
+      "date": "2. Dezember 2024",
+      "imageUrl": "https://images.unsplash.com/photo-1597591516654-72b726d644da?w=1080"
+    }
+  }
+}
+```
