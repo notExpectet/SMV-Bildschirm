@@ -3,7 +3,7 @@
     {
       "id": 1,
       "date": "2. Dez",
-      "time": "10:10",
+      "time": "09:09",
       "title": "Pädagogische Konferenzen",
       "color": "#2b7fff"
     },
