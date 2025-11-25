@@ -3,9 +3,9 @@
   "events": [
     {
       "id": 1,
-      "date": "16. Nov",
-      "time": "08:00",
-      "title": "Mathetest Klasse 10B",
+      "date": "2. Dez",
+      "time": --:--",
+      "title": "Pädagogische Konferenzen",
       "color": "#2b7fff"
     },
     {
