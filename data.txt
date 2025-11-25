@@ -4,7 +4,20 @@
     {
       "id": 1,
       "date": "2. Dez",
-      "time": 10:10",
+      "time": "10:10",   ← Hier das " vor 10:10 hinzufügen
+      "title": "Pädagogische Konferenzen",
+      "color": "#2b7fff"
+    },
+```
+
+Die komplette korrigierte Datei:
+```json
+{
+  "events": [
+    {
+      "id": 1,
+      "date": "2. Dez",
+      "time": "10:10",
       "title": "Pädagogische Konferenzen",
       "color": "#2b7fff"
     },
