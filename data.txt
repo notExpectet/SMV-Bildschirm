@@ -4,7 +4,7 @@
     {
       "id": 1,
       "date": "2. Dez",
-      "time": --:--",
+      "time": 10:10",
       "title": "Pädagogische Konferenzen",
       "color": "#2b7fff"
     },
